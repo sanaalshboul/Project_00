@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 3 sana sana 4096 Oct  6 10:01 ..
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 archives
+drwxr-xr-x 3 sana sana 4096 Oct  6 09:53 projects
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 5 sana sana 4096 Oct  6 09:53 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 5 sana sana 4096 Oct  6 09:53 ..
+drwxr-xr-x 4 sana sana 4096 Oct  6 09:53 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 3 sana sana 4096 Oct  6 09:53 ..
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 backend
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 4 sana sana 4096 Oct  6 09:53 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 4 sana sana 4096 Oct  6 09:53 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 sana sana 4096 Oct  6 09:53 .
+drwxr-xr-x 5 sana sana 4096 Oct  6 09:53 ..
