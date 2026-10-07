@@ -1,0 +1,18 @@
+
+Basic Git Workflow
+
+The Git workflow follows five simple steps:
+
+Edit: Create or modify the project files.
+
+Check: Run git status to review the changes.
+       command: git status
+
+Stage: Run git add to prepare the changes for a commit.
+       command: git add .
+
+Commit: Run git commit to save the changes to the project history.
+	command: git commit -m "Descriptive message"
+
+Push: Run git push to upload the committed changes to the remote repository.
+	command: git push -u origin main
